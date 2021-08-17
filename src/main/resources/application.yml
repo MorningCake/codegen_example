@@ -1,0 +1,6 @@
+description.json.path: "src/main/resources/config/MyClassesDescriptions.json"
+templates:
+  folder: "src/main/resources/templates/"
+  myclass: "MyClassTemplate.ftl"
+
+output.folder: "src/output/"

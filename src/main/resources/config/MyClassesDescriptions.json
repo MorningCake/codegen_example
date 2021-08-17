@@ -1,0 +1,17 @@
+{
+  "People": {
+    "name": "Ann",
+    "age": 18
+  },
+  "Animal": {
+    "name": "Tom",
+    "class": "cat"
+  },
+  "Vehicle" : {
+    "brand": "Toyota",
+    "model": "Corolla",
+    "gen": "10",
+    "color": "white",
+    "volume": 1.8
+  }
+}
